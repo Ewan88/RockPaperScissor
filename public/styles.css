@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(40, 0, 0);
+  color: white;
+  text-align: center;
+}
+
+p {
+  letter-spacing: 3px;
+}
+
+a {
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
